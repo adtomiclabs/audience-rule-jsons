@@ -2,3 +2,10 @@
 # MAC OSX bullshit
 ##################
 .DS_Store
+
+
+##################
+# Other stuff
+##################
+
+/json-examples
