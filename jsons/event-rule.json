@@ -1,0 +1,5 @@
+{
+	"field": "event",
+	"operator": :operator:,
+	"value": :value:
+}
