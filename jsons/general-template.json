@@ -1,0 +1,6 @@
+{
+	"inclusions": {
+		"operator": "or",
+		"rules": :rules:
+	}
+}
