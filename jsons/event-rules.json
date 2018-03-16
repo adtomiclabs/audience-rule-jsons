@@ -1,0 +1,11 @@
+{
+	"event_sources": [{
+		"type": "pixel",
+		"id": :pixel-id:
+	}],
+	"retention_seconds": :retention_seconds:,
+	"filter": {
+		"operator": "and",
+		"filters": :event-rules:
+	}
+}
