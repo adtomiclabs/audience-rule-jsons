@@ -1,0 +1,20 @@
+{
+	"inclusions": {
+		"operator": "or",
+		"rules": [{
+			"event_sources": [{
+				"type": "ig_business",
+				"id": :object-id:
+			}],
+			"retention_seconds": :retention_seconds:,
+			"filter": {
+				"operator": "and",
+				"filters": [{
+					"field": "event",
+					"operator": "eq",
+					"value": :event-name:
+				}]
+			}
+		}]
+	}
+}
