@@ -1,6 +1,6 @@
 {
-	"page_engaged":				"ig_business_profile_all",
-	"page_visited": 			"ig_business_profile_visit",
-	"page_post_interaction": 	"ig_business_profile_engaged",
-	"page_messaged":			"ig_business_profile_user_messaged"
+	"page_engaged": "ig_business_profile_all",
+	"page_visited": "ig_business_profile_visit",
+	"page_post_interaction": "ig_business_profile_engaged",
+	"page_messaged": "ig_business_profile_user_messaged"
 }
