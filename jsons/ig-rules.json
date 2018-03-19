@@ -1,0 +1,11 @@
+{
+	"event_sources": [{
+		"type": "ig_business",
+		"id": :object-id:
+	}],
+	"retention_seconds": :retention_seconds:,
+	"filter": {
+		"operator": "and",
+		"filters": :ig-rules:
+	}
+}
